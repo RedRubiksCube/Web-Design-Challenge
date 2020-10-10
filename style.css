@@ -1,0 +1,13 @@
+.myclass {
+    background-color: #d5dce6;
+    font-size: xx-small;
+}
+
+
+
+@media (min-width: 800px) {
+    .myclass {
+        background-color: #d5dce6;
+        font-size: xx-large;
+    }
+}
